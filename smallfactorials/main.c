@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int fact(x);
 int main()
 {
     int t;
@@ -10,13 +8,6 @@ int main()
     long x;
     scanf("%d",t);
     int a[i];
-
-
-
-
-
-    int fact()
-    {
         for(i=0;i<t;i++)
     {
         scanf("%d",&n);
@@ -33,7 +24,7 @@ int main()
     {
         printf(fact());
     }
-    }
+
 
 
 
