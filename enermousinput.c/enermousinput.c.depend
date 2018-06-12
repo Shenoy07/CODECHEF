@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528665949 source:n:\codechef\enermousinput.c\main.c
+	<stdlib.h>
+	<stdio.h>
+

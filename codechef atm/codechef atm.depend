@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528652083 source:n:\codechef\codechef atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
