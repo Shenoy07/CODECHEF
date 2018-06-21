@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529603105 source:n:\codechef\flow006\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

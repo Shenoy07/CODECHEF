@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529595674 source:n:\codechef\tlg\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
